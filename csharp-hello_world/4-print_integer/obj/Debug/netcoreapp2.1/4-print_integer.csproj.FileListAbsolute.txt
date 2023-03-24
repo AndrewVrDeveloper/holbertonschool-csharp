@@ -1,0 +1,11 @@
+/home/solaz/holbertonschool-csharp/csharp-hello_world/4-print_integer/bin/Debug/netcoreapp2.1/4-print_integer.deps.json
+/home/solaz/holbertonschool-csharp/csharp-hello_world/4-print_integer/bin/Debug/netcoreapp2.1/4-print_integer.runtimeconfig.json
+/home/solaz/holbertonschool-csharp/csharp-hello_world/4-print_integer/bin/Debug/netcoreapp2.1/4-print_integer.runtimeconfig.dev.json
+/home/solaz/holbertonschool-csharp/csharp-hello_world/4-print_integer/bin/Debug/netcoreapp2.1/4-print_integer.dll
+/home/solaz/holbertonschool-csharp/csharp-hello_world/4-print_integer/bin/Debug/netcoreapp2.1/4-print_integer.pdb
+/home/solaz/holbertonschool-csharp/csharp-hello_world/4-print_integer/obj/Debug/netcoreapp2.1/4-print_integer.csprojAssemblyReference.cache
+/home/solaz/holbertonschool-csharp/csharp-hello_world/4-print_integer/obj/Debug/netcoreapp2.1/4-print_integer.csproj.CoreCompileInputs.cache
+/home/solaz/holbertonschool-csharp/csharp-hello_world/4-print_integer/obj/Debug/netcoreapp2.1/4-print_integer.AssemblyInfoInputs.cache
+/home/solaz/holbertonschool-csharp/csharp-hello_world/4-print_integer/obj/Debug/netcoreapp2.1/4-print_integer.AssemblyInfo.cs
+/home/solaz/holbertonschool-csharp/csharp-hello_world/4-print_integer/obj/Debug/netcoreapp2.1/4-print_integer.dll
+/home/solaz/holbertonschool-csharp/csharp-hello_world/4-print_integer/obj/Debug/netcoreapp2.1/4-print_integer.pdb

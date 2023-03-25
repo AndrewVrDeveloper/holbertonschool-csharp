@@ -1,0 +1,11 @@
+/home/solaz/holbertonschool-csharp/csharp-ifelse_loops_methods/2-print_alphabet/bin/Debug/netcoreapp2.1/2-print_alphabet.deps.json
+/home/solaz/holbertonschool-csharp/csharp-ifelse_loops_methods/2-print_alphabet/bin/Debug/netcoreapp2.1/2-print_alphabet.runtimeconfig.json
+/home/solaz/holbertonschool-csharp/csharp-ifelse_loops_methods/2-print_alphabet/bin/Debug/netcoreapp2.1/2-print_alphabet.runtimeconfig.dev.json
+/home/solaz/holbertonschool-csharp/csharp-ifelse_loops_methods/2-print_alphabet/bin/Debug/netcoreapp2.1/2-print_alphabet.dll
+/home/solaz/holbertonschool-csharp/csharp-ifelse_loops_methods/2-print_alphabet/bin/Debug/netcoreapp2.1/2-print_alphabet.pdb
+/home/solaz/holbertonschool-csharp/csharp-ifelse_loops_methods/2-print_alphabet/obj/Debug/netcoreapp2.1/2-print_alphabet.csprojAssemblyReference.cache
+/home/solaz/holbertonschool-csharp/csharp-ifelse_loops_methods/2-print_alphabet/obj/Debug/netcoreapp2.1/2-print_alphabet.csproj.CoreCompileInputs.cache
+/home/solaz/holbertonschool-csharp/csharp-ifelse_loops_methods/2-print_alphabet/obj/Debug/netcoreapp2.1/2-print_alphabet.AssemblyInfoInputs.cache
+/home/solaz/holbertonschool-csharp/csharp-ifelse_loops_methods/2-print_alphabet/obj/Debug/netcoreapp2.1/2-print_alphabet.AssemblyInfo.cs
+/home/solaz/holbertonschool-csharp/csharp-ifelse_loops_methods/2-print_alphabet/obj/Debug/netcoreapp2.1/2-print_alphabet.dll
+/home/solaz/holbertonschool-csharp/csharp-ifelse_loops_methods/2-print_alphabet/obj/Debug/netcoreapp2.1/2-print_alphabet.pdb

@@ -16,7 +16,7 @@ public class Array
         for (int i = 0; i < size; i++)
         {
             newArray[i] = i;
-            Console.Write($"{i} ");
+            Console.Write($"{newArray[i]} ");
         }
 
         Console.WriteLine();

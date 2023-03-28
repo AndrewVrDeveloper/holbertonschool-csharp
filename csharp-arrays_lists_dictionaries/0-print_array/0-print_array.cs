@@ -11,15 +11,15 @@ public class Array
             return null;
         }
 
-        int[] newArray = new int[size];
+        int[] tempArray = new int[size];
 
         for (int i = 0; i < size; i++)
         {
-            newArray[i] = i;
-            Console.Write($"{newArray[i]} ");
+            tempArray[i] = i;
+            Console.Write($"{tempArray[i]} ");
         }
 
         Console.WriteLine();
-        return newArray;
+        return tempArray;
     }
 }

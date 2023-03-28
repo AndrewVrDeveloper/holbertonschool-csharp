@@ -1,25 +1,14 @@
 ﻿using System;
-using System.Collections;
 
-public class Array
+class Array
 {
-    public static int[] CreatePrint(int size)
+    public static int elementAt(int[] array, int index)
     {
-        if (size < 0)
+        if (index > array.Length || index < 0)
         {
-            Console.WriteLine("Size cannot be negative");
-            return null;
+            Console.WriteLine("Index out of range");
+            return -1;
         }
-
-        int[] newArray = new int[size];
-
-        for (int i = 0; i < size; i++)
-        {
-            newArray[i] = i;
-            Console.Write($"{i} ");
-        }
-
-        Console.WriteLine();
-        return newArray;
+        return array[index];
     }
 }

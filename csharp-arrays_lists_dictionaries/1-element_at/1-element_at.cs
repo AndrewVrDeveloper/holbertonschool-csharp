@@ -4,9 +4,6 @@ class Array
 {
     public static int elementAt(int[] array, int index)
     {
-        Console.WriteLine(array.Length);
-        Console.WriteLine(index);
-
         if (index >= array.Length || index < 0)
         {
             Console.WriteLine("Index out of range");

@@ -10,19 +10,23 @@ class List
             Console.WriteLine("Size cannot be negative");
             return null;
         }
+        if (size == 0)
+        {
+            Console.WriteLine();
+        }
         List<int> numbers = new List<int>(size);
         int i;
         for (i = 0; i < size; i++)
         {
-            if (i == size - 1)
+            if (i < size - 1)
             {
                 numbers.Add(i);
-                Console.WriteLine($"{i}");
+                Console.Write($"pepe {i} ");
             }
             else
             {
                 numbers.Add(i);
-                Console.Write($"{i} ");
+                Console.WriteLine($"entro {i}");
             }
         }
         return numbers;

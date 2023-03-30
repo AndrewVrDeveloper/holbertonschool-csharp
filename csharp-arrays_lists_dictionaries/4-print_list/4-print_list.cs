@@ -21,12 +21,12 @@ class List
             if (i < size - 1)
             {
                 numbers.Add(i);
-                Console.Write($"pepe {i} ");
+                Console.Write($"{i} ");
             }
             else
             {
                 numbers.Add(i);
-                Console.WriteLine($"entro {i}");
+                Console.WriteLine($"{i}");
             }
         }
         return numbers;

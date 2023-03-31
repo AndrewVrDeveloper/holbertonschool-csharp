@@ -6,7 +6,7 @@ class Dictionary
     public static string BestScore(Dictionary<string, int> myList)
     {
         string maxKey = "None";
-        int maxValue = 0;
+        int maxValue = -1;
         foreach (KeyValuePair<string, int> entry in myList)
         {
             if (entry.Value > maxValue)
